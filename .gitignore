@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.env*
+!.env.example
+*.xlsx
+*.xls
+*.csv
+*.json.bak
+workspace-backup*.json
+credentials*.json
+playwright-report/
+test-results/
+preview.png
