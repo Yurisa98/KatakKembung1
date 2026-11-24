@@ -1,3 +1,3 @@
 import { defineConfig } from 'vite';
 
-export default defineConfig({ base: process.env.GITHUB_ACTIONS ? '/KatakKembung1/' : '/' });
+export default defineConfig({ base: process.env.GITHUB_ACTIONS ? './' : '/' });
